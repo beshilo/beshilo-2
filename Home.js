@@ -1,1 +1,1 @@
-console.log("this is verion 1")
+console.log("this is verion 2 inside register")
